@@ -4,10 +4,11 @@
     box-sizing: border-box;
 }
 canvas {
-    background: #040005;
-    background: linear-gradient(180deg, rgba(4, 0, 5, 1)30%,
-     rgba(158, 27, 179, 1)70%, rgba(222, 162, 222, 1)100%);
-    position: absolute;
-    top: 0;
-    left: 0;
+/* background: #ffd89b;
+background-image: -webkit-linear-gradient(180deg,#181818, #ba8b02);
+background-image: linear-gradient(180deg,#181818, #ba8b02); */
+background-color: black;
+position: absolute;
+top: 0;
+left: 0;
 }
