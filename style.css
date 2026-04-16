@@ -4,7 +4,9 @@
     box-sizing: border-box;
 }
 canvas {
-    background-color: black;
+    background: #040005;
+    background: linear-gradient(180deg, rgba(4, 0, 5, 1)30%,
+     rgba(158, 27, 179, 1)70%, rgba(222, 162, 222, 1)100%);
     position: absolute;
     top: 0;
     left: 0;
